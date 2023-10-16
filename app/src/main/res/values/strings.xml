@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">KitchenFinder</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="email_placeholder">Email:</string>
+    <string name="password_placeholder">Password:</string>
+    <string name="switch_to_login"><u>Login?</u></string>
+    <string name="switch_to_register"><u>Register?</u></string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="title_camera">Camera</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_current_item">Current Item</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="paragraph_placeholder">A description will appear here once an ingredient is scanned from a picture.</string>
+    <string name="name_placeholder">Ingredient</string>
+    <string name="paragraph_content_description">Description Container</string>
+    <string name="tooltip">Tip: Make sure to leave this page after making changes in order for them to save!</string>
+    <string name="sign_out_prompt">Would you like to sign out?</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="returnToDash">Return</string>
+</resources>
